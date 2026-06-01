@@ -2,15 +2,15 @@ This file was generated with the addons Blender for UnrealEngine : https://githu
 
 0 Skeletal Mesh(s) | 4 Static Mesh(s) | 0 Collection Static Mesh(s) | 0 Camera(s) | 0 Groom Simulation(s) | 0 Spline(s) | 0 Action Animation(s) | 0 Pose Animation(s) | 0 Non Linear Animation(s) | 0 Alembic Animation(s)
 
-ASSET [Static Mesh] 'Wall_4x4_a' EXPORTED IN 9 ms
- -> Package [Static Mesh] 'Wall_4x4_a' SUCCESS (7 ms)
-    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Wall_4x4_a.fbx
-ASSET [Static Mesh] 'Walldoor_4x4_a' EXPORTED IN 10 ms
- -> Package [Static Mesh] 'Walldoor_4x4_a' SUCCESS (9 ms)
-    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Walldoor_4x4_a.fbx
-ASSET [Static Mesh] 'Corner_4x4_a' EXPORTED IN 10 ms
- -> Package [Static Mesh] 'Corner_4x4_a' SUCCESS (9 ms)
-    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Corner_4x4_a.fbx
-ASSET [Static Mesh] 'Floor_4x4_a' EXPORTED IN 10 ms
+ASSET [Static Mesh] 'Wall_4x4x0.5_a' EXPORTED IN 13 ms
+ -> Package [Static Mesh] 'Wall_4x4x0.5_a' SUCCESS (12 ms)
+    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Wall_4x4x0.5_a.fbx
+ASSET [Static Mesh] 'Pillar_0.5x4x0.5_a' EXPORTED IN 11 ms
+ -> Package [Static Mesh] 'Pillar_0.5x4x0.5_a' SUCCESS (10 ms)
+    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Pillar_0.5x4x0.5_a.fbx
+ASSET [Static Mesh] 'Door_a' EXPORTED IN 11 ms
+ -> Package [Static Mesh] 'Door_a' SUCCESS (9 ms)
+    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Door_a.fbx
+ASSET [Static Mesh] 'Floor_4x4_a' EXPORTED IN 11 ms
  -> Package [Static Mesh] 'Floor_4x4_a' SUCCESS (9 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Blender\ExportedAssets\StaticMesh\SM_Floor_4x4_a.fbx
