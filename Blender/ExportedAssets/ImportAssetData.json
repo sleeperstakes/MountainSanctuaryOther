@@ -5,12 +5,12 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-03 15:42:35",
-        "timestamp": 1780497755,
-        "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets3.blend",
+        "date_time_str": "2026-06-03 20:32:43",
+        "timestamp": 1780515163,
+        "blender_file": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets3.blend",
         "addon_version": "Version 4.4.5",
-        "addon_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
-        "import_module_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
+        "addon_path": "C:\\Users\\Charlie\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
+        "import_module_path": "C:\\Users\\Charlie\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
     },
     "unreal_import_location": "Game\\ImportedBlenderAssets",
     "assets": [
@@ -24,12 +24,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Door_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Door_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -46,12 +46,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Floor_4x4_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Floor_4x4_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Floor_4x4_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Floor_4x4_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -68,12 +68,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_FloorBoardWalk_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_FloorBoardWalk_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_FloorBoardWalk_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_FloorBoardWalk_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -90,12 +90,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -112,12 +112,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShort_c.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_c.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShort_c_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_c_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -134,12 +134,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -156,12 +156,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarLong_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarLong_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_PillarLong_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarLong_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -178,12 +178,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -200,12 +200,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Offeringarea_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Offeringarea_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Offeringarea_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Offeringarea_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -222,12 +222,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Stairs_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Stairs_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Stairs_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_Stairs_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -244,12 +244,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_StairsCurved_b.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_StairsCurved_b.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_StairsCurved_b_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_StairsCurved_b_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -266,12 +266,12 @@
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_StairsSmall_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_StairsSmall_a.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_StairsSmall_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_StairsSmall_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
