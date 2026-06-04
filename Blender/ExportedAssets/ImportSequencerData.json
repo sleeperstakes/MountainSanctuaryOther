@@ -5,12 +5,12 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-03 22:42:27",
-        "timestamp": 1780522947,
-        "blender_file": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets3.blend",
+        "date_time_str": "2026-06-04 18:32:08",
+        "timestamp": 1780594328,
+        "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets4.blend",
         "addon_version": "Version 4.4.5",
-        "addon_path": "C:\\Users\\Charlie\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
-        "import_module_path": "C:\\Users\\Charlie\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
+        "addon_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
+        "import_module_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
     },
     "spawnable_camera": true,
     "sequencer_frame_start": 1,
