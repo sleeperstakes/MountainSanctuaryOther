@@ -5,8 +5,8 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-03 20:32:43",
-        "timestamp": 1780515163,
+        "date_time_str": "2026-06-03 22:42:27",
+        "timestamp": 1780522947,
         "blender_file": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets3.blend",
         "addon_version": "Version 4.4.5",
         "addon_path": "C:\\Users\\Charlie\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
@@ -82,20 +82,108 @@
         },
         {
             "scene_unit_scale": 1.0,
-            "asset_name": "PillarShort_a",
+            "asset_name": "PillarShortCorner_c",
             "asset_type": "StaticMesh",
-            "asset_import_name": "SM_PillarShort_a",
+            "asset_import_name": "SM_PillarShortCorner_c",
             "asset_import_path": "Game\\ImportedBlenderAssets",
             "files": [
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a.fbx"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_a_additional_data.json"
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "CoveringCornerCeiling_c",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_CoveringCornerCeiling_c",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCornerCeiling_c.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCornerCeiling_c_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "CoveringCornerFloor_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_CoveringCornerFloor_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCornerFloor_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCornerFloor_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "CoveringCeiling_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_CoveringCeiling_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCeiling_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringCeiling_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "CoveringFloor_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_CoveringFloor_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringFloor_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_CoveringFloor_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -118,28 +206,6 @@
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
                     "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShort_c_additional_data.json"
-                }
-            ],
-            "auto_generate_collision": true,
-            "collision_trace_flag": "CTF_UseDefault",
-            "import_as_lod_mesh": false
-        },
-        {
-            "scene_unit_scale": 1.0,
-            "asset_name": "PillarShortCorner_c",
-            "asset_type": "StaticMesh",
-            "asset_import_name": "SM_PillarShortCorner_c",
-            "asset_import_path": "Game\\ImportedBlenderAssets",
-            "files": [
-                {
-                    "type": "FBX",
-                    "content_type": "",
-                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c.fbx"
-                },
-                {
-                    "type": "JSON",
-                    "content_type": "ADDITIONAL_DATA",
-                    "file_path": "C:\\Users\\Charlie\\Documents\\MountainSanctuary\\MountainSanctuaryOther\\Kits\\SM_PillarShortCorner_c_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,

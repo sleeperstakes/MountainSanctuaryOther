@@ -1,40 +1,49 @@
 This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
 
-0 Skeletal Mesh(s) | 12 Static Mesh(s) | 0 Collection Static Mesh(s) | 0 Camera(s) | 0 Groom Simulation(s) | 0 Spline(s) | 0 Action Animation(s) | 0 Pose Animation(s) | 0 Non Linear Animation(s) | 0 Alembic Animation(s)
+0 Skeletal Mesh(s) | 15 Static Mesh(s) | 0 Collection Static Mesh(s) | 0 Camera(s) | 0 Groom Simulation(s) | 0 Spline(s) | 0 Action Animation(s) | 0 Pose Animation(s) | 0 Non Linear Animation(s) | 0 Alembic Animation(s)
 
-ASSET [Static Mesh] 'Door_a' EXPORTED IN 16 ms
- -> Package [Static Mesh] 'Door_a' SUCCESS (15 ms)
+ASSET [Static Mesh] 'Door_a' EXPORTED IN 19 ms
+ -> Package [Static Mesh] 'Door_a' SUCCESS (17 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_Door_a.fbx
-ASSET [Static Mesh] 'Floor_4x4_a' EXPORTED IN 22 ms
- -> Package [Static Mesh] 'Floor_4x4_a' SUCCESS (20 ms)
+ASSET [Static Mesh] 'Floor_4x4_a' EXPORTED IN 27 ms
+ -> Package [Static Mesh] 'Floor_4x4_a' SUCCESS (25 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_Floor_4x4_a.fbx
-ASSET [Static Mesh] 'FloorBoardWalk_a' EXPORTED IN 23 ms
- -> Package [Static Mesh] 'FloorBoardWalk_a' SUCCESS (21 ms)
+ASSET [Static Mesh] 'FloorBoardWalk_a' EXPORTED IN 28 ms
+ -> Package [Static Mesh] 'FloorBoardWalk_a' SUCCESS (26 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_FloorBoardWalk_a.fbx
-ASSET [Static Mesh] 'PillarShort_a' EXPORTED IN 23 ms
- -> Package [Static Mesh] 'PillarShort_a' SUCCESS (20 ms)
-    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_PillarShort_a.fbx
-ASSET [Static Mesh] 'PillarShort_c' EXPORTED IN 25 ms
- -> Package [Static Mesh] 'PillarShort_c' SUCCESS (22 ms)
-    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_PillarShort_c.fbx
-ASSET [Static Mesh] 'PillarShortCorner_c' EXPORTED IN 25 ms
- -> Package [Static Mesh] 'PillarShortCorner_c' SUCCESS (23 ms)
+ASSET [Static Mesh] 'PillarShortCorner_c' EXPORTED IN 27 ms
+ -> Package [Static Mesh] 'PillarShortCorner_c' SUCCESS (24 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_PillarShortCorner_c.fbx
-ASSET [Static Mesh] 'PillarLong_a' EXPORTED IN 25 ms
- -> Package [Static Mesh] 'PillarLong_a' SUCCESS (23 ms)
+ASSET [Static Mesh] 'CoveringCornerCeiling_c' EXPORTED IN 28 ms
+ -> Package [Static Mesh] 'CoveringCornerCeiling_c' SUCCESS (26 ms)
+    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_CoveringCornerCeiling_c.fbx
+ASSET [Static Mesh] 'CoveringCornerFloor_a' EXPORTED IN 25 ms
+ -> Package [Static Mesh] 'CoveringCornerFloor_a' SUCCESS (23 ms)
+    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_CoveringCornerFloor_a.fbx
+ASSET [Static Mesh] 'CoveringCeiling_a' EXPORTED IN 30 ms
+ -> Package [Static Mesh] 'CoveringCeiling_a' SUCCESS (27 ms)
+    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_CoveringCeiling_a.fbx
+ASSET [Static Mesh] 'CoveringFloor_a' EXPORTED IN 31 ms
+ -> Package [Static Mesh] 'CoveringFloor_a' SUCCESS (29 ms)
+    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_CoveringFloor_a.fbx
+ASSET [Static Mesh] 'PillarShort_c' EXPORTED IN 30 ms
+ -> Package [Static Mesh] 'PillarShort_c' SUCCESS (27 ms)
+    C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_PillarShort_c.fbx
+ASSET [Static Mesh] 'PillarLong_a' EXPORTED IN 32 ms
+ -> Package [Static Mesh] 'PillarLong_a' SUCCESS (30 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_PillarLong_a.fbx
-ASSET [Static Mesh] 'Wall4x4_a' EXPORTED IN 25 ms
- -> Package [Static Mesh] 'Wall4x4_a' SUCCESS (22 ms)
+ASSET [Static Mesh] 'Wall4x4_a' EXPORTED IN 35 ms
+ -> Package [Static Mesh] 'Wall4x4_a' SUCCESS (33 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_Wall4x4_a.fbx
-ASSET [Static Mesh] 'Offeringarea_a' EXPORTED IN 28 ms
- -> Package [Static Mesh] 'Offeringarea_a' SUCCESS (25 ms)
+ASSET [Static Mesh] 'Offeringarea_a' EXPORTED IN 33 ms
+ -> Package [Static Mesh] 'Offeringarea_a' SUCCESS (31 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_Offeringarea_a.fbx
-ASSET [Static Mesh] 'Stairs_a' EXPORTED IN 30 ms
- -> Package [Static Mesh] 'Stairs_a' SUCCESS (28 ms)
+ASSET [Static Mesh] 'Stairs_a' EXPORTED IN 38 ms
+ -> Package [Static Mesh] 'Stairs_a' SUCCESS (36 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_Stairs_a.FBX
-ASSET [Static Mesh] 'StairsCurved_b' EXPORTED IN 35 ms
- -> Package [Static Mesh] 'StairsCurved_b' SUCCESS (33 ms)
+ASSET [Static Mesh] 'StairsCurved_b' EXPORTED IN 37 ms
+ -> Package [Static Mesh] 'StairsCurved_b' SUCCESS (35 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_StairsCurved_b.fbx
-ASSET [Static Mesh] 'StairsSmall_a' EXPORTED IN 32 ms
- -> Package [Static Mesh] 'StairsSmall_a' SUCCESS (30 ms)
+ASSET [Static Mesh] 'StairsSmall_a' EXPORTED IN 38 ms
+ -> Package [Static Mesh] 'StairsSmall_a' SUCCESS (35 ms)
     C:\Users\Charlie\Documents\MountainSanctuary\MountainSanctuaryOther\Kits\SM_StairsSmall_a.fbx
