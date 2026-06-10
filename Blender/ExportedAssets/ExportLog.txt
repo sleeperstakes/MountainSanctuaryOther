@@ -1,18 +1,18 @@
 This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
 
-0 Skeletal Mesh(s) | 27 Static Mesh(s) | 0 Collection Static Mesh(s) | 0 Camera(s) | 0 Groom Simulation(s) | 0 Spline(s) | 0 Action Animation(s) | 0 Pose Animation(s) | 0 Non Linear Animation(s) | 0 Alembic Animation(s)
+0 Skeletal Mesh(s) | 28 Static Mesh(s) | 0 Collection Static Mesh(s) | 0 Camera(s) | 0 Groom Simulation(s) | 0 Spline(s) | 0 Action Animation(s) | 0 Pose Animation(s) | 0 Non Linear Animation(s) | 0 Alembic Animation(s)
 
-ASSET [Static Mesh] 'Door_a' EXPORTED IN 16 ms
- -> Package [Static Mesh] 'Door_a' SUCCESS (14 ms)
+ASSET [Static Mesh] 'Door_a' EXPORTED IN 13 ms
+ -> Package [Static Mesh] 'Door_a' SUCCESS (12 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Door_a.fbx
 ASSET [Static Mesh] 'Floor_4x4_a' EXPORTED IN 12 ms
- -> Package [Static Mesh] 'Floor_4x4_a' SUCCESS (11 ms)
+ -> Package [Static Mesh] 'Floor_4x4_a' SUCCESS (10 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Floor_4x4_a.fbx
 ASSET [Static Mesh] 'FloorBoardWalk_a' EXPORTED IN 14 ms
  -> Package [Static Mesh] 'FloorBoardWalk_a' SUCCESS (12 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_FloorBoardWalk_a.fbx
-ASSET [Static Mesh] 'OfferingTable_a' EXPORTED IN 16 ms
- -> Package [Static Mesh] 'OfferingTable_a' SUCCESS (14 ms)
+ASSET [Static Mesh] 'OfferingTable_a' EXPORTED IN 14 ms
+ -> Package [Static Mesh] 'OfferingTable_a' SUCCESS (13 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_OfferingTable_a.fbx
 ASSET [Static Mesh] 'CoveringCornerCeiling_c' EXPORTED IN 16 ms
  -> Package [Static Mesh] 'CoveringCornerCeiling_c' SUCCESS (14 ms)
@@ -20,66 +20,69 @@ ASSET [Static Mesh] 'CoveringCornerCeiling_c' EXPORTED IN 16 ms
 ASSET [Static Mesh] 'CoveringCornerFloor_a' EXPORTED IN 15 ms
  -> Package [Static Mesh] 'CoveringCornerFloor_a' SUCCESS (14 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_CoveringCornerFloor_a.fbx
-ASSET [Static Mesh] 'CoveringCeiling_a' EXPORTED IN 19 ms
+ASSET [Static Mesh] 'CoveringCeiling_a' EXPORTED IN 20 ms
  -> Package [Static Mesh] 'CoveringCeiling_a' SUCCESS (17 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_CoveringCeiling_a.fbx
-ASSET [Static Mesh] 'CoveringFloor_a' EXPORTED IN 20 ms
- -> Package [Static Mesh] 'CoveringFloor_a' SUCCESS (18 ms)
+ASSET [Static Mesh] 'CoveringFloor_a' EXPORTED IN 17 ms
+ -> Package [Static Mesh] 'CoveringFloor_a' SUCCESS (16 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_CoveringFloor_a.fbx
-ASSET [Static Mesh] 'PillarShort_e' EXPORTED IN 19 ms
- -> Package [Static Mesh] 'PillarShort_e' SUCCESS (17 ms)
+ASSET [Static Mesh] 'PillarShort_e' EXPORTED IN 17 ms
+ -> Package [Static Mesh] 'PillarShort_e' SUCCESS (16 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_PillarShort_e.fbx
-ASSET [Static Mesh] 'PillarShortcorner_e' EXPORTED IN 17 ms
- -> Package [Static Mesh] 'PillarShortcorner_e' SUCCESS (16 ms)
+ASSET [Static Mesh] 'PillarShortcorner_e' EXPORTED IN 18 ms
+ -> Package [Static Mesh] 'PillarShortcorner_e' SUCCESS (17 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_PillarShortcorner_e.fbx
 ASSET [Static Mesh] 'PillarShort_e.001' EXPORTED IN 18 ms
  -> Package [Static Mesh] 'PillarShort_e.001' SUCCESS (16 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_PillarShort_e.001.fbx
-ASSET [Static Mesh] 'PillarLong_b' EXPORTED IN 20 ms
- -> Package [Static Mesh] 'PillarLong_b' SUCCESS (18 ms)
+ASSET [Static Mesh] 'PillarLong_b' EXPORTED IN 21 ms
+ -> Package [Static Mesh] 'PillarLong_b' SUCCESS (19 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_PillarLong_b.fbx
-ASSET [Static Mesh] 'Wall5x5_a' EXPORTED IN 20 ms
- -> Package [Static Mesh] 'Wall5x5_a' SUCCESS (19 ms)
+ASSET [Static Mesh] 'Wall5x5_a' EXPORTED IN 19 ms
+ -> Package [Static Mesh] 'Wall5x5_a' SUCCESS (17 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Wall5x5_a.fbx
-ASSET [Static Mesh] 'Wall4x4_a' EXPORTED IN 19 ms
- -> Package [Static Mesh] 'Wall4x4_a' SUCCESS (17 ms)
+ASSET [Static Mesh] 'Wall4x4_a' EXPORTED IN 21 ms
+ -> Package [Static Mesh] 'Wall4x4_a' SUCCESS (19 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Wall4x4_a.fbx
-ASSET [Static Mesh] 'WallCornerShort_a' EXPORTED IN 23 ms
- -> Package [Static Mesh] 'WallCornerShort_a' SUCCESS (21 ms)
+ASSET [Static Mesh] 'WallCornerShort_a' EXPORTED IN 20 ms
+ -> Package [Static Mesh] 'WallCornerShort_a' SUCCESS (19 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_WallCornerShort_a.fbx
-ASSET [Static Mesh] 'WallCornerTall_a' EXPORTED IN 24 ms
- -> Package [Static Mesh] 'WallCornerTall_a' SUCCESS (23 ms)
+ASSET [Static Mesh] 'WallCornerTall_a' EXPORTED IN 22 ms
+ -> Package [Static Mesh] 'WallCornerTall_a' SUCCESS (21 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_WallCornerTall_a.fbx
+ASSET [Static Mesh] 'Wall4x4woodengrid_a' EXPORTED IN 26 ms
+ -> Package [Static Mesh] 'Wall4x4woodengrid_a' SUCCESS (24 ms)
+    D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Wall4x4woodengrid_a.fbx
 ASSET [Static Mesh] 'Wall4x4wooden_a' EXPORTED IN 23 ms
- -> Package [Static Mesh] 'Wall4x4wooden_a' SUCCESS (22 ms)
+ -> Package [Static Mesh] 'Wall4x4wooden_a' SUCCESS (21 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Wall4x4wooden_a.fbx
-ASSET [Static Mesh] 'Offeringareafront_a' EXPORTED IN 26 ms
+ASSET [Static Mesh] 'Offeringareafront_a' EXPORTED IN 25 ms
  -> Package [Static Mesh] 'Offeringareafront_a' SUCCESS (24 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Offeringareafront_a.fbx
-ASSET [Static Mesh] 'Beams Ceiling_b' EXPORTED IN 23 ms
- -> Package [Static Mesh] 'Beams Ceiling_b' SUCCESS (22 ms)
+ASSET [Static Mesh] 'Beams Ceiling_b' EXPORTED IN 24 ms
+ -> Package [Static Mesh] 'Beams Ceiling_b' SUCCESS (23 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Beams Ceiling_b.fbx
-ASSET [Static Mesh] 'Offeringareaarchyway_a' EXPORTED IN 26 ms
- -> Package [Static Mesh] 'Offeringareaarchyway_a' SUCCESS (24 ms)
+ASSET [Static Mesh] 'Offeringareaarchyway_a' EXPORTED IN 24 ms
+ -> Package [Static Mesh] 'Offeringareaarchyway_a' SUCCESS (23 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Offeringareaarchyway_a.fbx
 ASSET [Static Mesh] 'Offeringareabackwall_a' EXPORTED IN 23 ms
  -> Package [Static Mesh] 'Offeringareabackwall_a' SUCCESS (21 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Offeringareabackwall_a.fbx
 ASSET [Static Mesh] 'BeamsGeneral_a' EXPORTED IN 25 ms
- -> Package [Static Mesh] 'BeamsGeneral_a' SUCCESS (24 ms)
+ -> Package [Static Mesh] 'BeamsGeneral_a' SUCCESS (23 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_BeamsGeneral_a.fbx
-ASSET [Static Mesh] 'Underbeams_a' EXPORTED IN 30 ms
- -> Package [Static Mesh] 'Underbeams_a' SUCCESS (29 ms)
+ASSET [Static Mesh] 'Underbeams_a' EXPORTED IN 29 ms
+ -> Package [Static Mesh] 'Underbeams_a' SUCCESS (28 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_Underbeams_a.fbx
-ASSET [Static Mesh] 'StairsSmall_a' EXPORTED IN 27 ms
- -> Package [Static Mesh] 'StairsSmall_a' SUCCESS (25 ms)
+ASSET [Static Mesh] 'StairsSmall_a' EXPORTED IN 30 ms
+ -> Package [Static Mesh] 'StairsSmall_a' SUCCESS (29 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_StairsSmall_a.fbx
-ASSET [Static Mesh] 'WindowBalcony_b' EXPORTED IN 26 ms
- -> Package [Static Mesh] 'WindowBalcony_b' SUCCESS (25 ms)
+ASSET [Static Mesh] 'WindowBalcony_b' EXPORTED IN 28 ms
+ -> Package [Static Mesh] 'WindowBalcony_b' SUCCESS (26 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_WindowBalcony_b.fbx
-ASSET [Static Mesh] 'WindowCorner_c' EXPORTED IN 32 ms
- -> Package [Static Mesh] 'WindowCorner_c' SUCCESS (31 ms)
+ASSET [Static Mesh] 'WindowCorner_c' EXPORTED IN 28 ms
+ -> Package [Static Mesh] 'WindowCorner_c' SUCCESS (27 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_WindowCorner_c.fbx
-ASSET [Static Mesh] 'StairsCurved_c' EXPORTED IN 32 ms
- -> Package [Static Mesh] 'StairsCurved_c' SUCCESS (31 ms)
+ASSET [Static Mesh] 'StairsCurved_c' EXPORTED IN 35 ms
+ -> Package [Static Mesh] 'StairsCurved_c' SUCCESS (33 ms)
     D:\Charlie\Projects\2026\Modular Environment Vertex\Other Files\MountainSanctuaryOther\Kits\SM_StairsCurved_c.fbx
