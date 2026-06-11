@@ -5,8 +5,8 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-10 19:51:32",
-        "timestamp": 1781117492,
+        "date_time_str": "2026-06-11 19:13:10",
+        "timestamp": 1781201590,
         "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets8.blend",
         "addon_version": "Version 4.4.5",
         "addon_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
@@ -16,20 +16,20 @@
     "assets": [
         {
             "scene_unit_scale": 1.0,
-            "asset_name": "Door_a",
+            "asset_name": "Door_B",
             "asset_type": "StaticMesh",
-            "asset_import_name": "SM_Door_a",
+            "asset_import_name": "SM_Door_B",
             "asset_import_path": "Game\\ImportedBlenderAssets",
             "files": [
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_a.fbx"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_B.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_a_additional_data.json"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_B_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -492,28 +492,6 @@
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
                     "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Offeringareabackwall_a_additional_data.json"
-                }
-            ],
-            "auto_generate_collision": true,
-            "collision_trace_flag": "CTF_UseDefault",
-            "import_as_lod_mesh": false
-        },
-        {
-            "scene_unit_scale": 1.0,
-            "asset_name": "BeamsGeneral_a",
-            "asset_type": "StaticMesh",
-            "asset_import_name": "SM_BeamsGeneral_a",
-            "asset_import_path": "Game\\ImportedBlenderAssets",
-            "files": [
-                {
-                    "type": "FBX",
-                    "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_BeamsGeneral_a.fbx"
-                },
-                {
-                    "type": "JSON",
-                    "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_BeamsGeneral_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
