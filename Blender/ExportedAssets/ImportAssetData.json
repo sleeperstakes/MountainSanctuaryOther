@@ -5,8 +5,8 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-11 19:13:10",
-        "timestamp": 1781201590,
+        "date_time_str": "2026-06-17 21:54:48",
+        "timestamp": 1781729688,
         "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets8.blend",
         "addon_version": "Version 4.4.5",
         "addon_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
@@ -16,20 +16,20 @@
     "assets": [
         {
             "scene_unit_scale": 1.0,
-            "asset_name": "Door_B",
+            "asset_name": "Door_b",
             "asset_type": "StaticMesh",
-            "asset_import_name": "SM_Door_B",
+            "asset_import_name": "SM_Door_b",
             "asset_import_path": "Game\\ImportedBlenderAssets",
             "files": [
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_B.fbx"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_b.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_B_additional_data.json"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Door_b_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -302,28 +302,6 @@
         },
         {
             "scene_unit_scale": 1.0,
-            "asset_name": "Wall4x4_a",
-            "asset_type": "StaticMesh",
-            "asset_import_name": "SM_Wall4x4_a",
-            "asset_import_path": "Game\\ImportedBlenderAssets",
-            "files": [
-                {
-                    "type": "FBX",
-                    "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a.fbx"
-                },
-                {
-                    "type": "JSON",
-                    "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a_additional_data.json"
-                }
-            ],
-            "auto_generate_collision": true,
-            "collision_trace_flag": "CTF_UseDefault",
-            "import_as_lod_mesh": false
-        },
-        {
-            "scene_unit_scale": 1.0,
             "asset_name": "WallCornerShort_a",
             "asset_type": "StaticMesh",
             "asset_import_name": "SM_WallCornerShort_a",
@@ -368,6 +346,94 @@
         },
         {
             "scene_unit_scale": 1.0,
+            "asset_name": "Wall5x5door_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall5x5door_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall5x5door_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall5x5door_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Wall4x4_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall4x4_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Wall4x4door_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall4x4door_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4door_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4door_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Wall4x4stripe_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall4x4stripe_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4stripe_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4stripe_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
             "asset_name": "Wall4x4woodengrid_a",
             "asset_type": "StaticMesh",
             "asset_import_name": "SM_Wall4x4woodengrid_a",
@@ -390,20 +456,108 @@
         },
         {
             "scene_unit_scale": 1.0,
-            "asset_name": "Wall4x4wooden_a",
+            "asset_name": "Wall4x4woodenhorizontaltop_b",
             "asset_type": "StaticMesh",
-            "asset_import_name": "SM_Wall4x4wooden_a",
+            "asset_import_name": "SM_Wall4x4woodenhorizontaltop_b",
             "asset_import_path": "Game\\ImportedBlenderAssets",
             "files": [
                 {
                     "type": "FBX",
                     "content_type": "",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4wooden_a.fbx"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodenhorizontaltop_b.fbx"
                 },
                 {
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
-                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4wooden_a_additional_data.json"
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodenhorizontaltop_b_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Wall4x4woodensquare_b",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall4x4woodensquare_b",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodensquare_b.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodensquare_b_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "WallCorner4m_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_WallCorner4m_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WallCorner4m_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WallCorner4m_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "WallCornerStripe4m_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_WallCornerStripe4m_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WallCornerStripe4m_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WallCornerStripe4m_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Wall4x4woodenhorizontalt_b",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Wall4x4woodenhorizontalt_b",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodenhorizontalt_b.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Wall4x4woodenhorizontalt_b_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
@@ -580,6 +734,50 @@
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
                     "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WindowCorner_c_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "WindowWall_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_WindowWall_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WindowWall_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WindowWall_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "WindowSmall_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_WindowSmall_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WindowSmall_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_WindowSmall_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
