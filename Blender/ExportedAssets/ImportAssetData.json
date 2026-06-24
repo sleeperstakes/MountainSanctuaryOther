@@ -5,9 +5,9 @@
         "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
     },
     "info": {
-        "date_time_str": "2026-06-18 16:16:22",
-        "timestamp": 1781795782,
-        "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets8.blend",
+        "date_time_str": "2026-06-24 17:48:11",
+        "timestamp": 1782319691,
+        "blender_file": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Blender\\MountainSanctuaryModularAssets10.blend",
         "addon_version": "Version 4.4.5",
         "addon_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter",
         "import_module_path": "C:\\Users\\work\\AppData\\Roaming\\Blender Foundation\\Blender\\5.1\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
@@ -844,6 +844,116 @@
                     "type": "JSON",
                     "content_type": "ADDITIONAL_DATA",
                     "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_StairsCurved_c_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "TableLow_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_TableLow_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_TableLow_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_TableLow_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Candle_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Candle_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Candle_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Candle_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Lamp_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Lamp_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Lamp_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Lamp_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "Burner_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_Burner_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Burner_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_Burner_a_additional_data.json"
+                }
+            ],
+            "auto_generate_collision": true,
+            "collision_trace_flag": "CTF_UseDefault",
+            "import_as_lod_mesh": false
+        },
+        {
+            "scene_unit_scale": 1.0,
+            "asset_name": "HangingLamp_a",
+            "asset_type": "StaticMesh",
+            "asset_import_name": "SM_HangingLamp_a",
+            "asset_import_path": "Game\\ImportedBlenderAssets",
+            "files": [
+                {
+                    "type": "FBX",
+                    "content_type": "",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_HangingLamp_a.fbx"
+                },
+                {
+                    "type": "JSON",
+                    "content_type": "ADDITIONAL_DATA",
+                    "file_path": "D:\\Charlie\\Projects\\2026\\Modular Environment Vertex\\Other Files\\MountainSanctuaryOther\\Kits\\SM_HangingLamp_a_additional_data.json"
                 }
             ],
             "auto_generate_collision": true,
